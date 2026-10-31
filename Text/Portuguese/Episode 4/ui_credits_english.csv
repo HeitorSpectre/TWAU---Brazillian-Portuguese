@@ -1,0 +1,1479 @@
+﻿Id,Prefix,Text,Animation,VoiceData,Flags
+"295776257","","ESCRITO POR
+Mike Stemmle
+
+DIRETOR
+Jason Latino
+
+DIRETOR DE ARTE
+Dave Bogan
+
+DIREÇÃO DE ARTE
+Peter Tsaykel
+
+PRODUTORES EXECUTIVOS
+Dan Connors
+Kevin Bruner
+
+DIRETOR TÉCNICO
+Zacariah Litton
+
+DIRETOR DE TECNOLOGIAS DE PRODUÇÃO
+Jonathan Sgro
+
+CHEFE DE PROGRAMAÇÃO
+Randy Tudor
+
+CHEFE DE ANIMAÇÃO
+Jeff Sarre
+
+CHEFE DE COREOGRAFIA
+Eric Parsons
+
+CHEFE DE ARTES E AMBIENTE
+Kim Lyons
+
+DESIGN DA TEMPORADA
+Mike Stemmle
+John Drake
+
+DESIGN DO EPISÓDIO
+Mike Stemmle
+John Drake
+
+ARTISTAS CONCEITUAIS
+Ryan Jones
+Gray Rogers
+
+DIRETOR DE DESIGN
+Dave Grossman
+
+PRODUÇÃO
+Brett Tosti
+
+PRODUTOR ASSOCIADO
+Kirsten Kennedy 
+
+PROGRAMAÇÃO
+Keenan Patterson
+
+ANIMAÇÃO
+Michael Tjosvold
+Peter Tsaykel
+
+COREOGRAFIA
+Vahram Antonian
+Rebekah Gamin
+Sean Ainsworth
+Marius Fietzek
+Thorsten Fietzek
+Dennis Lenart
+Kent Mudle
+
+ARTE DOS PERSONAGENS
+Cemre Ozkurt
+
+ARTE DO AMBIENTE
+Brian Gillies
+Drew Di Domenico
+
+ARTE TÉCINICA E EFEITOS
+Nora Magyar
+Michael Perretta
+
+INTERFACE DO USUÁRIO
+Jim Ingraham 
+
+INTERFACE DE ARTE E DESIGN TÍTULO
+Jake Rodkin
+
+ASSISTENTE DE PRODUÇÃO
+Jacob Miller
+Bryan Roth
+
+LOCALIZAÇÃO/SUPERVISOR DE CQ
+Erik O'Keady
+
+CHEFE DO TESTE DE CQ
+Caleb M. Hoffman
+
+CHEFE DO PROJETO DE CQ
+Jeremy Acs
+
+TESTADORES DO CQ
+Dan Morris
+John Douglas Joy
+Alex Culang
+Jeff Armstead
+Trent Burg
+Chuck Jose
+Ben Knoll
+
+ANIMAÇÃO ADICIONAL
+Tim Reardon 
+
+PERSONAGENS ADICIONAIS E MODELAÇÃO DE AMBIENTE
+DQ Entertainment International
+
+
+
+
+PRODUÇÃO DE ÁUDIO
+Bay Area Sound, Inc.
+
+MÚSICA
+Jared Emerson-Johnson
+
+PRODUÇÃO DE VOZ
+Julian Kwasneski
+
+DIREÇÃO DE VOZ
+Julian Kwasneski
+Jared Emerson-Johnson
+
+GRAVAÇÃO E EDIÇÃO DE DIÁLOGOS
+Jory Prum
+Julian Kwasneski
+
+DESING DE SOM
+Julian Kwasneski
+Bill Storkson
+Jared Emerson-Johnson
+
+COORDENAÇÃO DE SOM
+Lazar Levine
+
+IMPLEMENTAÇÃO DE ÁUDIO
+Damian Kastbauer
+
+
+
+
+MARKETING E RELAÇÕES PÚBLICAS
+Steve Allison
+Richard Iggo
+Joshua Viloria
+Joel Dreskin
+Paolo Asuncion
+Alex Brewer / Highwater Group
+Selena Rodriguez / Highwater Group
+
+DESENVOLVIMENTO DA REDE
+Jesse Wagstaff
+
+RELAÇÕES PÚBLICAS E MÍDIA SOCIAL
+Alan Johnson
+
+PRODUÇÃO E MARKETING DE MÍDIA
+Shaun Finney
+
+SUPORTE DO PRODUTO
+Amy Lukima
+
+DIREÇÃO DE TI
+Stan Shambaugh
+
+ENGENHARIA DE CONSTRUÇÃO & DISTRIBUIÇÃO
+Jeff Brill
+Nate Whiteside
+
+OPERAÇÕES
+Andre Blanadet
+Rhoda Gravador-Kao
+Greg Koll
+Lorin Smedley
+Kathy McElwee
+Serena Sinn
+
+PUBLICAÇÃO
+James Lamorticelli
+
+JURÍDICO
+Mark Barbolak
+
+
+
+
+ELENCO
+
+Marty McFly
+A.J. LoCascio
+
+Doctor Emmett Brown
+Christopher Lloyd
+
+Young Emmett Brown
+James Arnold Taylor
+
+Edna Strickland & Phone Operator & Voices
+Rebecca Schweitzer
+
+Young Edna Strickland
+Shannon Nicholson
+
+Beauregard Tannen & Kid Tannen & Voices
+Owen Thomas
+
+Arthur McFly & George McFly
+Michael Sommers
+
+Trixie Trotter
+Melissa Hutchison
+
+Cueball & Hostile Guy & Judge Brown & Hampton
+Roger Jackson
+
+Biff Tannen
+Kid Beyond
+
+Officer Parker
+Mark Barbolak
+
+
+
+
+LOCALIZAÇÃO
+
+PRODUÇÃO INTERNATIONAL
+Seher Basak
+
+LOCALIZAÇÃO DE CQ
+Jason Pimentel
+
+CQ ALEMÃO & FRANCÊS 
+Annetta Kolzow
+Benjamin Hair
+
+SERVIÇOS DE LOCALIZAÇÃO
+Exequo
+
+
+
+
+CRIADO COM A ENGINE DA TELLTALE (TELLTALE TOOL)
+Kevin Bruner
+Jonathan Sgro
+Graham McDermott
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Bruce Wilcox
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+
+
+
+TESTADORES DE FOCO
+Skyler Bunderson
+Ashley Greigo
+Marlene Preclaro
+Andrew Lee
+Joel Luce
+Benjamin Canant
+Greg Royball
+Woody Chang
+
+
+
+
+AGRADECIMENTOS ESPECIAIS
+Denise, Alexis & Ryan Tosti
+Elisa, Nick, Justice & Liberty Tudor
+Gwendolyn, Owen & Luke Sgro
+Harmony, Stephen & Claire Sakai
+John, Jackson & Cooper Lyons
+Jen, Noah & Aaron Sarre
+The Joys, the Kicins, the Hermans, & Sage Herman-Joy
+Molly, Max & Charlie
+Regina Wu & Renelly Morel
+Mom, Dad & Kevin
+Casey & Ada - my girls!
+Al, Debbie & Ikumi
+Erin Ashe
+Jackson O'Keady
+JLM
+Bob Gale
+Robert Zemeckis
+Dixie Dunbar
+Nicole Burch
+Stephen Clark
+Megan Elliot
+Joe Walser
+The Gamins & Joe
+Daggs Ainsworth
+The folks at the Kenwood Group
+
+E você
+
+
+
+
+MASCOTES DA TELLTALE
+Max the Dog, Tess, Belle, Cornnut, Kitty, Stumpy, Kaya,
+Inky, Squiggle, Tobie, Patches, Holly, Yoshi, Fu, Buddha,
+Nick Charles Koll, Nitro T1, Eero, Misfit, Karma, Beau,
+Fritz, Brady, Indiva, Satindica, Mocha, Chai, Becky, Gomez,
+Muttley, Alpha, Marty, Ocelot, Monster Mash, Molly, Snarffles,
+Momo, Walter, Marlowe & Gwen, David Bowie, 
+Ivan, Sadie, Mohrle, Mia & Brendan Q. Ferguson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2012 Telltale, Inc.
+Todos os direitos reservados","","","64"
+"295776258","","Morte de uma irmã adotiva","","","64"
+"357605377","","Um Caminho Tortuoso","","","64"
+"357605378","","ESCRITO POR
+Dan Martin - Lead
+
+DESENVOLVIDO POR
+Aaron Casillas - Lead
+
+DIREÇÃO
+Kent Mudle
+
+DIREÇÃO DE ARTE
+David Bogan
+
+MÚSICA
+Jared Emerson-Johnson
+
+PROGRAMAÇÃO DE CONTEÚDO
+Jason Reis - Lead
+Patrick Algermissen
+Jason Kim
+Andrew Langley
+Carl Muckenhoupt
+John Mauldin
+Keenan Patterson
+
+ANIMAÇÃO
+Jeff Sarre - Lead
+Tyler Helton
+Armando LLuch
+West Munz
+RJ Torralba
+
+ARTISTAS DE CINEMÁTICAS
+Jonathan Stauder - Lead
+Vahram Antonian
+Vanessa Blair
+Bridget Bougan
+Javier Espinoza
+Airyque Ervin
+Michael Gambino
+Daniel Herrera
+Bradford Hillam
+Matthew Leach
+Sean Manning
+Jolie Menzel
+Martin Montgomery
+Kent Mudle
+Jason Pyke
+David Ramirez Chaverri
+Christopher Rieser
+Zachariah Scott
+Eric Stirpe
+Adam Waters
+Jessica Watkins
+Ryan Wetherall
+Ryann Lynn Weller
+
+ARTISTAS DE AMBIENTES
+Kim Lyons - Lead
+Brian Gillies
+Mark Sheppard
+Jan Wyss
+Amanda Stewart
+
+ILUMINAÇÃO DE PERSONAGENS
+Dave Bogan
+Leif Estes 
+
+ARTISTAS DE PERSONAGENS
+Megan Gritzfeld - Lead
+Jason findley 
+Steven Moore
+
+INTERFACE DO USUÁRIO
+D. Reed Monroe - Lead
+Crystal Rogers
+Todd Colby
+Hain Lee
+
+DESING DE SOM
+Lazar Levine - Lead
+Jack Fusting
+Nick Mastroianni
+Scott Gilmore
+
+ARTISTAS CONCEITUAIS
+Gray Rogers
+Derek Stratton
+Ryan Jones
+Jesse Maccabe
+
+ARTE TÉCINICA E EFEITOS
+Michael Perretta
+Brian Eby
+Nora Magyar
+Alex Jacobs
+
+PRODUTORES EXECUTIVOS
+Dan Connors
+Kevin Bruner
+Brett Tosti
+
+PRODUTOR
+Chris Schroyer
+
+PRODUTOR ASSOCIADO
+Peter Cornforth
+
+PRODUTORES ASSISTENTES
+Arthur von Nagel
+Chris Plumer
+Jeff Armstead
+
+BUILD E DISTRIBUIÇÃO
+Mark Gabby
+Mario Valencia
+
+TESTADOR-CHEFE SÊNIOR
+Matthew Warner
+
+TESTADORES DO CQ
+Christopher Donnelley - Lead
+Gregory Masto
+Andrew Smallwood
+Ben Knoll
+Ben Vizcaino
+David Mahoney
+Devin McCarthy
+Evan Koepf
+Hannah Bradshaw Lozier
+Helena Norton
+Jonathan Rozmarin
+Joshua Zygman
+Kyle Killian
+Matthew Paris
+Max Ince
+Michael Vallejo
+William Wheeler
+
+ROTEIRO ADICIONAL
+Adam Hines
+Nicole Martinez
+
+ARTE ADICIONAL
+Shawn Shain
+Mike Sherak
+Calvin Huang
+Molly Maloney
+Matthew Paris
+
+ARTE CONCEITUAL ADICIONAL
+Min Fu
+Paul Mica
+
+ANIMAÇÃO ADICIONAL
+Chris Waltner
+
+SERVIÇOS DE ARTE ADICIONAIS
+Original Force
+Hydrogen Whiskey
+Virtuos Games
+
+SERVIÇOS DE CQ ADICIONAIS
+VMC Game Labs
+Pole To Win
+
+DIREÇÃO DE VOZ
+Julian Kwasneski
+Jared Emerson-Johnson
+
+PRODUÇÃO DE VOZES
+Julian Kwasneski
+
+GRAVAÇÃO DE VOZES
+Tim Galida
+Jory Prum
+Larry Winer
+Spencer Herzog
+Mark Estdale
+
+EDIÇÃO DE DIÁLOGOS
+Connor Stock
+
+
+
+ELENCO
+
+BIGBY LOBO
+Adam Harrington
+
+BRANCA DE NEVE
+Erin Yvette
+
+ICHABOD CRANE
+Roger Jackson
+
+GEORGIE
+Kevin Howarth
+
+BARBA AZUL
+Dave Fennoy
+
+JOÃO HORNER
+Colin Benoit
+
+
+
+
+NERISSA
+Molly Benson
+
+GRENDEL
+Kid Beyond
+
+O LENHADOR
+Adam Harrington
+
+FERA
+Gavin Hammon
+
+BELA
+Melissa Hutchison
+
+BUFKIN
+Chuck Kourouklis
+
+DEE / DUM
+Gavin Hammon
+
+
+
+
+
+VIVIAN
+Sandy Delonga
+
+HOLLY
+Janet Lipsey
+
+LAWRENCE
+Anthony Lam
+
+PAPA-MOSCAS
+Dustin Rubin
+
+RACHEL / TIA GREENLEAF
+Laura Bailey
+
+MARIA SANGRENTA
+Kat Cressida
+
+AÇOUGUEIRO
+Terry McGovern
+
+VOZ AO TELEFONE
+Julian Kwasneski
+
+Colin
+Brian Sommer
+
+HOMEM TORTO
+Philip Banks
+
+JERSEY DEMONÍACO
+Bobby Vickers
+
+ESPELHO MÁGICO
+Gavin Hammon
+
+DR. CORAÇÃO SUÍNO
+David Kaye
+
+TIM
+Noam Smooha
+
+SR. SAPO
+Chuck Kourouklis
+
+
+CRIADO COM A ENGINE DA TELLTALE (TELLTALE TOOL)
+Kevin Bruner
+Jonathan Sgro
+Randy Tudor
+Zacariah Litton
+Ben Ingram
+David Brady
+David Bromberg
+Alex Montgomery
+Tim Ingram
+Chris Bauer
+Guy Somberg
+Marcus Whitlock
+Michael Eads
+
+
+
+
+TELLTALE GAMES, INC.
+
+CEO 
+Dan Connors
+
+PRESIDENTE E CTO
+Kevin Bruner
+
+CHEFE DO ESTÚDIO
+Colum Slevin
+
+CFO
+Kathy McElwee
+
+VICE-PRESIDENTE SÊNIOR DE PUBLICAÇÃO
+Steve Allison
+
+VICE-PRESIDENTE DE ENGENHARIA
+Zacariah Litton
+
+DIRETOR DE DESENVOLVIMENTO CRIATIVO
+Stephan Vladimir Bugaj
+
+DIRETOR DO DEPARTAMENTO DE ARTE
+Dave Bogan
+
+DIRETOR SUPERVISOR
+Dennis Lenart
+
+DIRETOR DE DESIGN
+Ryan Kaufman
+
+DIRETOR DE TECNOLOGIAS DE PRODUÇÃO
+Jonathan Sgro
+
+DIRETOR DE SERVIÇOS DE PRODUÇÃO
+Dave Felton
+
+PRODUTOR DE TECNOLOGIA
+Trevor McCann
+
+DIRETOR TÉCNICO
+Michael Perretta
+
+GERENTE DE LANÇAMENTO E SUBMISSÃO
+Emmy Bautista
+
+DIRETOR DE MARKETING SÊNIOR
+Richard Iggo
+
+GERENTE DE MARKETING E LANÇAMENTO SÊNIOR
+Jonathan ""JR"" Rosales
+
+DIRETOR DE RELAÇÕES PÚBLICAS
+Job J. Stauffer
+
+ESPECIALISTA EM COMUNIDADE E RP
+Laura Perusco
+
+GERENTE DE SERVIÇOS CRIATIVOS SÊNIOR
+Paolo Asuncion
+
+PRODUÇÃO E MARKETING DE MÍDIA
+Shaun Finney
+
+EDITOR DE VÍDEO
+Mary Stark
+
+ARQUITETO WEB-CHEFE
+Michael Lindsay
+
+ENGENHEIRO DE SERVIDORES SÊNIOR
+John Gamble
+
+DESENVOLVIMENTO DA REDE
+Michael Lindsay
+Jesse Wagstaff
+
+SUPORTE DO PRODUTO
+Matthew Pedonti
+Evan Koepf
+Michael Vallejo
+
+DIREÇÃO DE TI
+Stan Shambaugh
+
+TI
+Kelly Robertson
+
+FINANÇAS E OPERAÇÕES
+Betsy Delis
+Rhoda Gravador
+Serena Sinn
+Olga Malkiman 
+
+RECRUTAMENTO
+Jonathan Khalife
+Sarah Roth
+
+JURÍDICO
+Mark Barbolak
+
+
+
+
+
+
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+PRODUTOR
+Geoff Bent
+
+VICE-PRESIDENTE, PRODUÇÃO DIGITAL
+Chris Miller
+
+VICE-PRESIDENTE, PRODUÇÃO DE FRANQUIAS DA DC
+Ames Kirshen
+
+GERENTE DE SERVIÇOS DE PRODUÇÃO
+Jamie O'Brien Moore
+
+ASSISTENTE EXECUTIVO
+Nicole Scates
+
+GERENTE, DIREITOS E AUTORIZAÇÕES
+Jane Elms
+
+ASSOCIADO DE MARKETING
+Saena Park
+
+GERENTE, MARKETING DE MARCA
+David Lebovic
+
+DIRETOR, MARKETING DE MARCA
+Jeff Neinstein
+
+VICE-PRESIDENTE, MARKETING DE MARCA
+Stephanie Johnson
+
+GERENTE DE RP
+Kehau Rodenhurst
+
+ESPECIALISTA EM RP
+Genna Forkey
+
+VICE-PRESIDENTE, RELAÇÕES PÚBLICAS
+Remi Sklar
+
+DIRETOR, DESENVOLVIMENTO DE NEGÓCIOS E LICENCIAMENTO
+Ben Elliot
+
+VICE-PRESIDENTE, DESENVOLVIMENTO DE NEGÓCIOS
+Scott Johnson
+
+VICE-PRESIDENTE E CONSULTOR JURÍDICO ASSOCIADO
+Jennifer Stump
+
+VICE-PRESIDENTE, FINANÇAS E ADMINISTRAÇÃO
+Steve Chalk
+
+VICE-PRESIDENTE SÊNIOR, MARKETING MUNDIAL
+Russell Arons
+
+VICE-PRESIDENTE SÊNIOR, PRODUÇÃO E DESENVOLVIMENTO
+Samantha Ryan
+
+VICE-PRESIDENTE SÊNIOR, DESENVOLVIMENTO DE NEGÓCIOS
+Debra Baker
+
+VICE-PRESIDENTE SÊNIOR, VENDAS, AMÉRICA
+Kevin Kebodeaux
+
+VICE-PRESIDENTE SÊNIOR, JOGOS, UE
+Olivier Wolff
+
+PRESIDENTE
+Martin Tremblay
+
+
+
+
+
+DC
+
+DIRETOR DE CRIAÇÃO
+Geoff Johns
+
+DIRETOR DE CRIAÇÃO, INTERATIVO
+Patrick McCallum
+
+ASSOCIADO DE CRIAÇÃO, INTERATIVO
+Randy Ma
+
+PRESIDENTE
+Diane Nelson 
+
+COEDITORES
+Dan DiDio and Jim Lee
+
+VP EXECUTIVO - VENDAS, MARKETING E DESENVOLVIMENTO DE NEGÓCIOS
+John Rood
+
+VP SÊNIOR - ASSUNTOS JURÍDICOS E DE NEGÓCIOS
+Amy Genkins
+
+VP SÊNIOR - FINANÇAS
+Nairi Gardiner
+
+
+
+
+
+AGRADECIMENTOS ESPECIAIS
+Adam Cochran, Grandma JoJo, Anu and Nadja, Britt and Brayden Casillas, 
+C.P.K. and Slimgoodie, Corb & Jane Hillam, Danielle ""Bubbles"" Bysouth,
+Deirdre Rippe, Emi Eads, Eva, Anastasia, & Daciana Algermissen, 
+Faranak Farjamrad Herrera, Lia Farjam Herrera, Navin Farjam Herrera,
+David Herrera, Cherie Herrera, Cristina Herrera, Gustavo De Lafore, 
+Hassan Farjamrad, Zahra Farjamrad, Bobby Farjamrad, Sahba Motallebi,
+Heidi Stauder, Jason, Aidan, the Rogers Pirates and Baucom Family, Jen,
+Noah & Aaron Sarre, Ji Yeon Shin, Hye Jeong Shin, Orlando LLuch, 
+Joy & Grace Brown, Keri Johnson, Donna Thorland, and the Martin Family,
+Kevin, Mimi, Max, and Tess Killian, Luis, Alicia, and Miguel Rosales, 
+Alyn and Oscar Maynez, Peter Canada, Deena Mustin, Dustin Garza, 
+
+
+
+AGRADECIMENTOS ESPECIAIS
+Marie, Chrisee, and Jose Vizcaino, Megan Murphy, Eric Gorski, 
+Mike, Heidi, Laura, Ashley, and Ben, Michelle Steranko, Sage Wessner, 
+Nurse Rachel, Monica Burrowes, Nae Hak Lee, Sun Young Kang, 
+Michael David Gong, Natalie Helton, Nicole, Enzo and Antonello Munz, 
+Peek-a-Boo the Cat, Perry Karavello, Prof. Dev Jana, Robert Hodsdon, 
+Saul Bautista, Lillian Bautista, Diana Bautista, Stefanie San Miguel, 
+Ronald San Miguel & Sonia Linares, Stephanie Cooke, The Mannings, 
+The Riggs', Jenny ""Hossenfeffer"" Hamlin, The Perusco family, Jeff Sinclair, 
+The Vallejo Family, The Watkins Family, Torralba Clan, 
+Yohanna Bulan Weller, Rashelle & Jeff Wilson, Zoe Shepard-Monson
+
+
+
+
+e você
+
+
+
+
+
+AGRADECIMENTOS MUITO ESPECIAIS
+Bill Willingham
+Mark Buckingham
+
+
+
+
+MASCOTES DA TELLTALE
+Allie & Carmen, Athena and Katniss, Bell and Bubba, Buffy and Scout, 
+Butters and OD, Charlie Plumer & Mr. Lloyd Dobler, Charlotte & Howl, Cody,
+Gabby, Grumbles, Harley Quinn, Ivy, and Zatanna, JacknLuna, Jake & Agro,
+Jeremy, Kensey the Dog Face, Luke & Buck, Maggie 'Bobo' Mae, 
+Mighty Pirate Pete, Mojo Jojo, My three legged boi Blu, 
+Chewie ""The One Eyed Wonderpup"", Neji & Yoshi, Ollie, Ozzie, 
+Penny & Desmond, Princess Melody Belle Fluffybottom, Quint and Hooper,
+Shay, Shiro, Shelby, Bonnie and Clyde, Sophie, Tangle, Toby Or Not Toby
+
+
+
+
+CRÉDITOS DA EQUIPE DA REMASTERIZAÇÃO
+
+
+
+
+EQUIPE DE DESENVOLVIMENTO DA TELLTALE
+
+DIRETOR DO JOGO
+Matt Saia
+
+PRODUTORES EXECUTIVOS
+Grady Standard
+Pat LaBine
+
+CHEFE DE CQ
+Venus Herseim
+
+CHEFE DE LOCALIZAÇÃO
+Dan Pangelina
+
+APOIO DE PROGRAMAÇÃO
+Indy Ray, Lex Chesler, Lucas Mateyko, Mario Valencia, Scott Hammack
+
+
+
+
+EQUIPE DE DESENVOLVIMENTO DA TRICK STUDIOS
+
+ENGENHARIA
+
+CHEFE DE PROJETO E TÉCNICO
+Kevin Rutolo
+
+ENGENHEIROS DE PLATAFORMA
+Arturo Oppen, Christian Reina, Francisco Quiroga
+
+ENGENHEIRO GRÁFICO
+Adrián Piccioli
+
+CQ
+
+TESTADOR DE CQ FUNCIONAL
+Nicolás Ganci
+
+
+
+
+ARTE
+
+CHEFE DE ARTE
+Fernando Lerena
+
+ARTISTA TÉCNICO-CHEFE
+Nicolás Claisse
+
+ARTISTAS TÉCNICOS
+Agustín Barabino, Ignacio Fernandez, Micaela A. Gouguet
+
+DESIGNER DE UX/UI
+Gustavo Rasente
+
+
+
+
+ARTE DOS PERSONAGENS
+
+ARTISTA TÉCNICO-CHEFE DE PERSONAGENS
+Federico Pedroza
+
+ARTISTAS DE PERSONAGENS 2D
+Juan Cruz Riveros, Juan Pitluk
+
+ARTISTAS DE PERSONAGENS 2D/3D
+Cristian Azcuénaga, Gustavo Astudillo
+
+ARTISTA DE PERSONAGENS 3D
+Lucía Mamud
+
+
+
+
+ARTE DO AMBIENTE
+
+ARTISTA-CHEFE DE AMBIENTES 3D
+Javier Ruiz
+
+ARTISTAS DE AMBIENTES 3D
+Andrea Moreno, Franco Giachetti, Franco Giordano, Leonel LaForgia
+
+ARTISTA CONCEITUAL 2D DE PERSONAGENS E AMBIENTES
+Mateo Tedin
+
+
+
+ANIMAÇÃO
+
+CHEFE DE ANIMAÇÃO
+Tomás Gottlieb
+
+ANIMADOR
+Victor Baralla
+
+
+
+
+
+PRODUÇÃO
+
+PRODUTOR
+Uriel Bertolini
+
+
+PRODUTOR ASSOCIADO
+Marco Antonio Martin
+
+
+
+
+
+LCG ENTERTAINMENT, INC.
+
+CEO
+Jamie Ottilie
+
+VP DE OPERAÇÕES
+Sara Guinness
+
+CFO
+Dan Irish
+
+VP DE NARRATIVA
+Zak Garriss
+
+DIRETOR TÉCNICO DO ESTÚDIO
+Ryan Cleven
+
+DIREÇÃO DE TI
+Erick Ely
+
+ESPECIALISTA EM CQ E LANÇAMENTO
+Carlos Flores
+
+
+
+
+GERENTE DE MARKETING GLOBAL 
+Amanda Cheok
+
+DIRETOR DE COMUNICAÇÃO DE MARKETING
+Elizabeth Olson
+
+ADMINISTRADOR EXECUTIVO E OPERACIONAL
+Natalia Rodriguez
+
+EQUIPE FINANCEIRA 
+Alexei Griesbach, Ivory Immaculata
+
+APOIO DE MARKETING ADICIONAL
+Dave Miller
+Darren Gladstone
+
+MIRAGO MARKETING 
+Hugo Agostinho, Shane Bierwith
+
+
+
+
+ÁUDIO REMASTERIZADO
+
+BAY AREA SOUND, INC. 
+Julian Kwasneski
+Jared Emerson-Johnson
+
+
+
+
+ARTE DE PERSONAGENS ADICIONAL
+
+LIQUID DEVELOPMENT, LLC
+
+CHEFE DO ESTÚDIO
+Darren Bartlett
+
+DIRETOR DE OPERAÇÕES DO ESTÚDIO
+Chuck Byas
+
+DIRETOR DE ARTE SÊNIOR
+Josh Sturgis
+
+GERENTE DE PROJETO
+Brian Sturgis
+
+ARTISTA-CHEFE DE PERSONAGENS 
+Petra Goodrich
+
+ARTISTAS DE PERSONAGENS
+Alex Tymoshenko, Danila Spivak, Jeremy Bolz
+
+ARTE CONCEITUAL E ARTE-CHAVE ADICIONAIS
+Anton Skeor, Illia Zavhorodnii, Kateryna Shpak, Olha Nykytiuk
+
+
+
+
+
+CQ FUNCIONAL E DE CONFORMIDADE
+
+TRANSPERFECT GAMES
+
+GERENTE DE FQA 
+Mateusz Przybylski
+
+CHEFE DE FQA
+Elda Lomeli
+
+FQA Engineer
+Frida Moreno
+
+TESTADORES DE FQA
+Andrea Tejeda, Erandi Zamudio, Hector Leon, Ivan Valenzuela,
+Ivan Zamorano, Juan Pablo Resendes, Paola Vianney Gomez
+
+
+
+
+GERENTE DE TESTES DE CQA
+Matthew Shimabuku
+
+TESTADORES DE CQA
+Adrian Santa Maria Piña Pinam, 
+Gael Oswaldo Serrano Espinosa, Gabriel Rodriguez
+
+APOIO DE CQA
+Mateusz Wiktorowicz
+
+DIRETOR, DESENVOLVIMENTO DE NEGÓCIOS 
+Kyle Komen 
+
+
+
+
+CQ DE COMPATIBILIDADE NO PC
+
+HUWIZ Solutions Inc.
+
+ANALISTAS DE CQ 
+Aaron Dion, Frederic Manuel, Guillaume Aubry Blanchette, 
+Jonathan Claude Plante, Jonathan Ducharme, Loris Savanier,
+Nathan Legault, Sébastien Pruneau, 
+Steve Lusignan, Vincent Berger-Millette 
+ 
+CHEFES DE CQ  
+Jeffrey Barnes, Sasha-Alexandre Poirier, Simon Larivière-Lapointe
+
+GERENTE DE PROJETO 
+Anaelle Lévesque
+ 
+GERENTE DE CQ 
+Alexis Delarosbil 
+
+
+
+
+
+LOCALIZAÇÃO
+
+GAMESCRIBES
+
+
+VICE-PRESIDENTE, PRODUÇÃO
+William Farrell
+ 
+DIRETOR DE DESENVOLVIMENTO DE NEGÓCIOS
+Tobe Sexton
+ 
+GERENTE DE PROJETO
+Miguel Cachafeiro Iglesias
+
+
+
+ 
+TRADUTORES DE FRANCÊS
+Florian Escoubet, Erwan Jegouzo
+ 
+EDITOR DE FRANCÊS
+Thierry Soual
+
+
+LQA DE FRANCÊS
+Thierry Soual, Bertrand Bonnet-Badill 
+
+
+TRADUTORES DE ALEMÃO
+Moritz Seipke, Matthias Mierau
+ 
+EDITORES DE ALEMÃO
+Jochen Schütz, Stephanie Schnabel-Hannen 
+
+
+LQA DE ALEMÃO
+Christian Heiland, Thorsten Dettmann
+
+
+
+
+
+TRADUTORES DE ESPANHOL LATINO-AMERICANO
+Andrés Ureta, David Tejera Expósito
+ 
+EDITOR DE ESPANHOL LATINO-AMERICANO
+Javier Gómez
+
+
+LQA DA AMÉRICA LATINA
+David Tejera Expósito, Kevin Hofmann
+
+
+
+
+
+DC
+
+VICE-PRESIDENTE EXECUTIVO - FRANQUIA GLOBAL, 
+MARCAS E EXPERIÊNCIAS GLOBAIS
+Meghan Maro
+
+PRESIDENTE, EDITOR E DIRETOR DE CRIAÇÃO
+Jim Lee
+
+VICE-PRESIDENTE SÊNIOR, GERENTE GERAL
+Anne DePies
+
+DIRETOR DE CRIAÇÃO SÊNIOR, INTERATIVO
+Randy Ma
+
+ASSOCIADO DE CRIAÇÃO, INTERATIVO
+Reid Weston
+
+ASSOCIADO DE CRIAÇÃO, INTERATIVO
+Trevor Alexandre
+
+
+
+
+
+WARNER BROS. INTERACTIVE ENTERTAINMENT
+
+
+VICE-PRESIDENTE, DESENVOLVIMENTO DE NEGÓCIOS
+Ben Elliott
+
+
+DIRETOR EXECUTIVO, DIREITOS E AUTORIZAÇÕES
+Jane Elms
+
+
+DIRETOR, DESENVOLVIMENTO DE NEGÓCIOS E LICENCIAMENTO
+Kelly C. Hill
+
+
+PRODUTOR, LICENCIAMENTO
+Daniel J Frankeberger
+
+
+MARKETING
+Natalie Wei
+
+
+
+
+TRICK STUDIOS
+
+Co-Founder & CEO
+Leo Gonzalez
+
+Co-Founder & CTO
+Julian Muro
+
+
+
+
+PM STUDIOS, INC.
+
+DIRETOR EXECUTIVO
+Michael Yum
+
+DIRETOR DE OPERAÇÕES
+Louie Reyes
+
+DIRETOR FINANCEIRO
+Rebecca So
+
+DIRETOR DE MARKETING
+Ami Blaire
+
+CHEFE DE DESENVOLVIMENTO DE NEGÓCIOS
+Dennis Yi
+
+DIRETOR DE TECNOLOGIA
+Dongpil Lim
+
+MEMBRO DO CONSELHO
+Roy Choi
+
+
+
+
+CONSELHO DE ADMINISTRAÇÃO
+Peter Jung
+
+SECRETÁRIA
+Dave Hung
+
+DIRETOR DE PUBLICAÇÃO
+Steven Yum
+
+PRODUTOR EXECUTIVO
+Thomas Whitehead
+
+PRODUTOR
+Qiqi Zuo
+
+ASSISTENTE DE PRODUÇÃO
+Barry Carenza
+
+GERENTE DE PROJETO
+Victor Wang
+
+INTELIGÊNCIA DE MERCADO
+Chris Olivares
+
+
+
+
+
+GERENTE DE MARKETING DE PRODUTO, REDES SOCIAIS E COMUNIDADE
+Harrison Floyd
+
+GERENTE DE MARKETING DE PRODUTO
+Courtney Evans
+
+ASSOCIADO DE MARKETING, JOGOS, REDES SOCIAIS E COMUNIDADE
+Andrew LaMacchia
+
+CHEFE DE CRIAÇÃO / DIRETOR DE ARTE
+Seonguk Jeon
+
+ARTISTA-CHEFE
+Sarah Choi
+
+CHEFE DE VENDAS
+Tim Pivnicny
+
+DIRETOR DE OPERAÇÕES NA ÁSIA
+Hogeun Kang
+
+ASSISTENTE JURÍDICO
+Jessika Song
+
+AGRADECIMENTOS ESPECIAIS
+Paola Cruz, Rob Busey
+
+
+
+
+
+FORTYSEVEN COMMUNICATIONS
+Rabeeah Patail, Monique Gonzalez, Barzeli Schneider, 
+Craig Sinel, Meghan Camarena, Ariana Mallouhi, Karolina Kecki
+
+Team Critical Hit
+William Murphy
+
+
+
+
+VÍDEOS DE BASTIDORES
+
+ENTREVISTAS
+Adam Harrington, Kevin Rutolo, Kim Lyons, 
+Matt Saia, Molly Benson, Randy Ma
+
+
+
+
+PRODUTOR DE CONTEÚDO DIGITAL DA DC
+Global Franchise Digital & Social
+Insung Hwang
+
+
+
+
+BEBÊS DA EQUIPE DA REMASTERIZAÇÃO
+Ainsley J Greenleaf, Beatrice Alysha Ray, Kynslee Jay Sugai, Vittorio Bertolini
+
+AGRADECIMENTOS ESPECIAIS DA REMASTERIZAÇÃO
+Edward J Toomey, Gonzalo Ferreti Da Silva, Jeff Myerson, Keinart OÜ, Alejandro Aguado
+
+
+
+
+
+(C) 2013-2026 LCG Entertainment, Inc. 
+Telltale, Telltale Games, and the Telltale logo are trademarks 
+and/or registered trademarks of LCG Entertainment, Inc.  
+
+
+
+
+Based upon the Vertigo comic book series 'FABLES' by Bill Willingham.
+
+(C) Bill Willingham and DC.
+The DC/Vertigo logo TM , (C) DC. WARNER BROS. GAMES LOGO, 
+WB SHIELD: TM , (C) WARNER BROS. Entertainment Inc.(s26). 
+
+Made using FMOD Studio by Firelight Technologies Pty Ltd.
+
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+CCLegendaryLegerdemain_34.font Copyright 2026 Comic Book Fonts LLC.","","","64"
+"357605379","","TELLTALE GAMES APRESENTA","","","64"
+"357605380","","UMA HISTÓRIA DA TELLTALE POR","","","64"
+"357605381","","Pierre Shorette
+Ryan Kaufman","","","64"
+"357605382","","DIREÇÃO","","","64"
+"357605383","","Martin Montgomery","","","64"
+"357605384","","DIREÇÃO DE ARTE","","","64"
+"357605385","","David Bogan","","","64"
+"357605386","","AMBIENTES","","","64"
+"357605387","","Kim Lyons","","","64"
+"357605388","","ANIMAÇÃO","","","64"
+"357605389","","Jeff Sarre","","","64"
+"357605390","","COREOGRAFIA","","","64"
+"357605391","","Jonathan Stauder","","","64"
+"357605392","","PROGRAMAÇÃO","","","64"
+"357605393","","Jason Reis","","","64"
+"357605394","","MÚSICA","","","64"
+"357605395","","Jared Emerson-Johnson","","","64"
+"357605396","","PRODUTORES EXECUTIVOS","","","64"
+"357605397","","Dan Connors","","","64"
+"357605398","","FÁBULAS CRIADAS POR","","","64"
+"357605399","","Bill Willingham","","","64"
+"357605400","","Kevin Bruner","","","64"
+"357605401","","Brett Tosti","","","64"
+"357605402","","Dan Martin
+Aaron Casillas","","","64"
+"357605403","","Brett Tosti","","","64"
+"357605404","","Episódio 3","","","64"
+"357605405","","Um Caminho Tortuoso","","","64"
+"357605406","","EPISÓDIO 4","","","64"
+"357605407","","""EM PELE DE CORDEIRO""","","","64"
+"357605408","","Kent Mudle","","","64"
