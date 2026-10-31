@@ -1,0 +1,103 @@
+1) Did you accept TJ's gift for Snow?
+2) You and 97.9% of players decided to accept TJ's gift for Snow.
+3) You and 2.1% of players refused to accept TJ's gift for Snow.
+4) Did you give the Crooked Man a trial?
+5) You and 67.7% of players brought the Crooked Man back alive.
+6) You and 32.3% of players killed the Crooked Man at the foundry.
+7) How did you treat the murder suspect? 
+8) You and 54.6% of players forced him to talk.
+9) You and 45.4% of players persuaded him to talk.
+10) Did you offer Flycatcher a job?
+11) You and 63% of players offered a job to Flycatcher.
+12) You and 37% of players did not offer a job to Flycatcher.
+13) Did you interrupt Snow's eulogy?
+14) You and 39.1% of players decided to interrupt Snow's eulogy.
+15) You and 60.9% of players decided not to interrupt Snow.
+16) Where did you decide to go first?
+17) You and 56.6% of players went to help Toad before Prince Lawrence. 
+18) You and 43.4% of players went to see Prince Lawrence before helping Toad.
+19) Did you let Snow come with you to the Trip Trap? 
+20) You and 75.2% of players let her make her own decision.
+21) You and 24.8% of players told her she should stay safe.
+22) What were your last words to Nerissa?
+23) You and 15.5% of players said, "None of it matters in the end".
+24) You and 37.4% of players stayed silent.
+25) You and 18.1% of players said, "I've made a lot of mistakes".
+26) You and 29% of players said, "I hope I've done some good here".
+27) What did you do to Georgie?
+28) You and 54.3% of players killed Georgie.
+29) You and 45.7% of players left Georgie to die.
+30) Did you burn Greenleaf's tree?
+31) You and 42.4% of players burned Greenleaf's tree.
+32) You and 57.6% of players did not burn Greenleaf's tree.
+33) How did you respond to Crane about Snow's death?
+34) You and 21.1% of players shut him out.
+35) You and 30.4% of players ignored him.
+36) You and 21.4% of players sympathized with him.
+37) You and 27.2% of players accused him of not caring about her.
+38) What happened to Prince Lawrence?
+39) You revived Prince Lawrence, but he died by his own hand...
+40) You did not prevent Prince Lawrence's death.
+41) You prevented Prince Lawrence's death.
+42) Did you keep punching Beast when he was down?
+43) You and 42.1% of players never had Beast at your mercy.
+44) You and 38% of players hit Beast a second time.
+45) You and 19.8% of players opted not to hit Beast a second time.
+46) How did you handle Georgie Porgie?
+47) You and 80.5% of players hit Georgie.
+48) You and 19.5% of players didn't hit Georgie.
+49) How did you punish the Crooked Man?
+50) You and 27.2% of players threw the Crooked Man down the Witching Well.
+51) You and 32.5% of players ripped the Crooked Man's head off.
+52) You and 40.4% of players chose to imprison the Crooked Man.
+53) How did you respond to the Crooked Man?
+54) You and 21.6% of players threatened him.
+55) You and 29.1% of players lit a cigarette.
+56) You and 18.6% of players said you're bringing him in.
+57) You and 13.6% of players offered no response.
+58) You and 17.1% of players agreed to talk with him first.
+59) Who did you arrest?
+60) When it came down to the wire, you and 48.4% of players grabbed the Woodsman.
+61) When it came down to the wire, you and 51.6% of players made sure Tweedle Dee didn't get away.
+62) Did you kill Tweedle Dum?
+63) You and 53.6% of players killed Tweedle Dum.
+64) You and 46.4% of players showed Tweedle Dum mercy.
+65) Did you make a deal with Jack?
+66) You and 44.7% of players decided to make a deal.
+67) You and 55.3% of players decided not to make a deal.
+68) Did you give Faith your money?
+69) You and 46.5% of players gave Faith your money.
+70) You and 53.5% of players held onto your money.
+71) Which Crooked operation did you investigate first?
+72) You and 51.7% of players went to the Lucky Pawn first.
+73) You and 48.3% of players went to the Cut Above first.
+74) Did you walk out of the Witching Well?
+75) You and 47.5% of players walked away from the crowd.
+76) You and 52.5% of players stayed until the end.
+77) Did you send Toad to the Farm?
+78) You and 27.1% of players chose not to give Toad an answer.
+79) You and 50.7% of players decided Toad should not go to the Farm.
+80) You and 22.2% of players decided Toad should go to the Farm.
+81) Did you send Colin to the Farm?
+82) You and 30.9% of players chose not to give Colin an answer.
+83) You and 19.4% of players decided Colin should go to the Farm.
+84) You and 49.7% of players decided Colin should not go to the Farm.
+85) Who is your prime suspect?
+86) You and 16.3% of players pointed their finger at the Tweedles.
+87) You and 20.4% of players pointed their finger at Faith's pimp.
+88) You and 36.7% players didn't say anything to Snow.
+89) You and 10.2% of players pointed their finger at Prince Lawrence.
+90) You and 4.1% of players pointed their finger at Bluebeard.
+91) You and 12.2% of players pointed their finger at The Woodsman.
+92) Did you tell Beast the truth about Beauty?
+93) You and 20.7% of players tried to stay out of it.
+94) You and 38% of players let the elevator door slam in his face.
+95) You and 23.1% of players lied and said you hadn't seen Beauty.
+96) You and 18.2% of players told him the truth.
+97) What place did you investigate first?
+98) You and 26.5% of players investigated the Trip Trap Bar first.
+99) You and 32.1% of players investigated the Tweedles' Office first.
+100) You and 41.4% of players investigated Crane's Apartment first.
+101) Did you attempt to remove Nerissa's ribbon?
+102) You and 39.8% of players tried to remove the ribbon.
+103) You and 60.2% of players did not try to remove the ribbon.

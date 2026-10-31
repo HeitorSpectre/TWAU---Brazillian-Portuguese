@@ -1,0 +1,103 @@
+1) Você aceitou o presente do SJ para a Branca?
+2) Você e 97,9% dos jogadores decidiram aceitar o presente do SJ para a Branca.
+3) Você e 2,1% dos jogadores recusaram o presente do SJ para a Branca.
+4) Você deu um julgamento ao Homem Torto?
+5) Você e 67,7% dos jogadores trouxeram o Homem Torto de volta vivo.
+6) Você e 32,3% dos jogadores mataram o Homem Torto na fundição.
+7) Como você tratou o suspeito do assassinato? 
+8) Você e 54,6% dos jogadores o forçaram a falar.
+9) Você e 45,4% dos jogadores o convenceram a falar.
+10) Você ofereceu um emprego ao Papa-Moscas?
+11) Você e 63% dos jogadores ofereceram um emprego ao Papa-Moscas.
+12) Você e 37% dos jogadores não ofereceram um emprego ao Papa-Moscas.
+13) Você interrompeu o discurso fúnebre da Branca?
+14) Você e 39,1% dos jogadores decidiram interromper o discurso fúnebre da Branca.
+15) Você e 60,9% dos jogadores decidiram não interromper a Branca.
+16) Aonde você decidiu ir primeiro?
+17) Você e 56,6% dos jogadores foram ajudar o Sapo antes de ver o Príncipe Lawrence. 
+18) Você e 43,4% dos jogadores foram ver o Príncipe Lawrence antes de ajudar o Sapo.
+19) Você deixou a Branca ir com você ao Bar do Balido? 
+20) Você e 75,2% dos jogadores deixaram que ela decidisse por conta própria.
+21) Você e 24,8% dos jogadores disseram que ela devia ficar em segurança.
+22) Quais foram suas últimas palavras para a Nerissa?
+23) Você e 15,5% dos jogadores disseram: "No fim, nada disso importa".
+24) Você e 37,4% dos jogadores ficaram em silêncio.
+25) Você e 18,1% dos jogadores disseram: "Eu cometi muitos erros".
+26) Você e 29% dos jogadores disseram: "Espero ter feito algum bem aqui".
+27) O que você fez com o Georgie?
+28) Você e 54,3% dos jogadores mataram o Georgie.
+29) Você e 45,7% dos jogadores deixaram o Georgie morrer.
+30) Você queimou a árvore da Greenleaf?
+31) Você e 42,4% dos jogadores queimaram a árvore da Greenleaf.
+32) Você e 57,6% dos jogadores não queimaram a árvore da Greenleaf.
+33) Como você respondeu ao Crane sobre a morte da Branca?
+34) Você e 21,1% dos jogadores o cortaram.
+35) Você e 30,4% dos jogadores o ignoraram.
+36) Você e 21,4% dos jogadores se solidarizaram com ele.
+37) Você e 27,2% dos jogadores o acusaram de não se importar com ela.
+38) O que aconteceu com o Príncipe Lawrence?
+39) Você reanimou o Príncipe Lawrence, mas ele morreu pelas próprias mãos...
+40) Você não impediu a morte do Príncipe Lawrence.
+41) Você impediu a morte do Príncipe Lawrence.
+42) Você continuou socando a Fera quando ela já estava no chão?
+43) Você e 42,1% dos jogadores nunca tiveram a Fera à sua mercê.
+44) Você e 38% dos jogadores bateram na Fera uma segunda vez.
+45) Você e 19,8% dos jogadores preferiram não bater na Fera uma segunda vez.
+46) Como você lidou com o Georgie Porgie?
+47) Você e 80,5% dos jogadores bateram no Georgie.
+48) Você e 19,5% dos jogadores não bateram no Georgie.
+49) Como você puniu o Homem Torto?
+50) Você e 27,2% dos jogadores jogaram o Homem Torto no Poço das Bruxas.
+51) Você e 32,5% dos jogadores arrancaram a cabeça do Homem Torto.
+52) Você e 40,4% dos jogadores escolheram prender o Homem Torto.
+53) Como você respondeu ao Homem Torto?
+54) Você e 21,6% dos jogadores o ameaçaram.
+55) Você e 29,1% dos jogadores acenderam um cigarro.
+56) Você e 18,6% dos jogadores disseram que iam levá-lo preso.
+57) Você e 13,6% dos jogadores não deram resposta.
+58) Você e 17,1% dos jogadores aceitaram conversar com ele primeiro.
+59) Quem você prendeu?
+60) Na hora H, você e 48,4% dos jogadores agarraram o Lenhador.
+61) Na hora H, você e 51,6% dos jogadores garantiram que o Tweedle Dee não escapasse.
+62) Você matou o Tweedle Dum?
+63) Você e 53,6% dos jogadores mataram o Tweedle Dum.
+64) Você e 46,4% dos jogadores tiveram piedade do Tweedle Dum.
+65) Você fez um acordo com o João?
+66) Você e 44,7% dos jogadores decidiram fazer um acordo.
+67) Você e 55,3% dos jogadores decidiram não fazer um acordo.
+68) Você deu seu dinheiro para a Faith?
+69) Você e 46,5% dos jogadores deram seu dinheiro para a Faith.
+70) Você e 53,5% dos jogadores guardaram seu dinheiro.
+71) Qual negócio do Homem Torto você investigou primeiro?
+72) Você e 51,7% dos jogadores foram primeiro ao Trato Feito.
+73) Você e 48,3% dos jogadores foram primeiro ao Corte Certo.
+74) Você saiu do Poço das Bruxas?
+75) Você e 47,5% dos jogadores deram as costas para a multidão.
+76) Você e 52,5% dos jogadores ficaram até o fim.
+77) Você mandou o Sapo para a Fazenda?
+78) Você e 27,1% dos jogadores escolheram não dar uma resposta ao Sapo.
+79) Você e 50,7% dos jogadores decidiram que o Sapo não devia ir para a Fazenda.
+80) Você e 22,2% dos jogadores decidiram que o Sapo devia ir para a Fazenda.
+81) Você mandou o Cícero para a Fazenda?
+82) Você e 30,9% dos jogadores escolheram não dar uma resposta ao Cícero.
+83) Você e 19,4% dos jogadores decidiram que o Cícero devia ir para a Fazenda.
+84) Você e 49,7% dos jogadores decidiram que o Cícero não devia ir para a Fazenda.
+85) Quem é o seu principal suspeito?
+86) Você e 16,3% dos jogadores apontaram o dedo para os Tweedles.
+87) Você e 20,4% dos jogadores apontaram o dedo para o cafetão da Faith.
+88) Você e 36,7% dos jogadores não disseram nada para a Branca.
+89) Você e 10,2% dos jogadores apontaram o dedo para o Príncipe Lawrence.
+90) Você e 4,1% dos jogadores apontaram o dedo para o Barba Azul.
+91) Você e 12,2% dos jogadores apontaram o dedo para o Lenhador.
+92) Você contou a verdade sobre a Bela para a Fera?
+93) Você e 20,7% dos jogadores tentaram ficar fora disso.
+94) Você e 38% dos jogadores deixaram a porta do elevador bater na cara dele.
+95) Você e 23,1% dos jogadores mentiram e disseram que não tinham visto a Bela.
+96) Você e 18,2% dos jogadores contaram a verdade a ele.
+97) Que lugar você investigou primeiro?
+98) Você e 26,5% dos jogadores investigaram primeiro o Bar do Balido.
+99) Você e 32,1% dos jogadores investigaram primeiro o escritório dos Tweedles.
+100) Você e 41,4% dos jogadores investigaram primeiro o apartamento do Crane.
+101) Você tentou tirar a fita da Nerissa?
+102) Você e 39,8% dos jogadores tentaram tirar a fita.
+103) Você e 60,2% dos jogadores não tentaram tirar a fita.
