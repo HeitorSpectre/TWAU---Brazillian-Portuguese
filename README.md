@@ -25,7 +25,7 @@ Every part has an English and a Portuguese version side by side.
 | Folder | Contents |
 |---|---|
 | [`Text`](Text) | Game texts (dialogue, menus, Fablespedia, achievements) as CSV, by episode, Menu, Boot and Project |
-| [`Textures`](Textures) | Translated textures as PNG, by episode and Menu |
+| [`Textures`](Textures) | Translated textures as PNG, by episode, Menu and Boot |
 | [`Scripts`](Scripts) | Boot script (`bootTitle.lua`) with the legal notice |
 | [`Properties`](Properties) | End-of-episode choice summaries (`choice.prop`, `stats.prop`) |
 | [`Scenes`](Scenes) | Texts stored inside scenes (`ui_menu_list_stat_end.scene`) |
@@ -54,7 +54,7 @@ Cada parte tem a versão em inglês e a versão em português lado a lado.
 | Pasta | Conteúdo |
 |---|---|
 | [`Text`](Text) | Textos do jogo (diálogos, menus, Fablespédia, conquistas) em CSV, por episódio, Menu, Boot e Project |
-| [`Textures`](Textures) | Texturas traduzidas em PNG, por episódio e Menu |
+| [`Textures`](Textures) | Texturas traduzidas em PNG, por episódio, Menu e Boot |
 | [`Scripts`](Scripts) | Script do boot (`bootTitle.lua`) com o aviso legal |
 | [`Properties`](Properties) | Resumos de escolhas do fim de episódio (`choice.prop`, `stats.prop`) |
 | [`Scenes`](Scenes) | Textos guardados dentro de cenas (`ui_menu_list_stat_end.scene`) |
